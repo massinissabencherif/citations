@@ -1,0 +1,1 @@
+Générateur de citations random grâce à l'API.
